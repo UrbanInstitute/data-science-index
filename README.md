@@ -1,4 +1,6 @@
-# UrbanInstitute Data Science Index
+# Urban Institute Data Science Index
+
+An index of the Urban Institute Data Science Team's open-source tools, guides, and analyses.
 
 ## Table of Contents
 
