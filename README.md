@@ -5,6 +5,7 @@
 * [Tools](#tools)
 * [Guides](#guides)
 * [Analyses](#analyses)
+* [More resources](#more-resources)
 
 ## Tools
 
@@ -29,3 +30,7 @@ Date|Title|Description|Publication(s)|Repo(s)
 ----|:---:|-----------|:--:|:-----:
 `ongoing`| Where Low-Inome Jobs are being lost to COVID| Code and data needed to estimate the number of low-income jobs lost to COVID-19 in every tract in the US|[:link:](https://www.urban.org/features/where-low-income-jobs-are-being-lost-covid-19) | [:link:](https://github.com/UrbanInstitute/covid-neighborhood-job-analysis)
 `ongoing`| Tracking COVID-19's Effects by Race and Ethnicity| Code to estimate Covid-19's socioeconomic impacts using the Census Bureau's Pulse Survey public use file|[:link:](https://www.urban.org/features/tracking-covid-19s-effects-race-and-ethnicity)|[:link:](https://github.com/UrbanInstitute/pulse_covid_feature)
+
+## More resources
+
+* [Data@Urban](https://medium.com/@urban_institute)
